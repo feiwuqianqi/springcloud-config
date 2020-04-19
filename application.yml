@@ -1,2 +1,2 @@
-server
-  port: 8888
+config:
+  info: "WDNMD ，好兄弟 让我过吧 秋梨膏！"
